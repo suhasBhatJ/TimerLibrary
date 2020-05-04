@@ -1,0 +1,17 @@
+{
+    "name": "Timer",
+    "keywords": "arduino, Timer, Esp8266, Nodemcu, Iot",
+    "description": "A simple and better timer for arduino and Esp8266",
+    "authors":
+    {
+        "name": "J Suhas Bhat",
+        "email": "suhassow8867@gmail.com",
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/suhasBhatJ/Timer"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
